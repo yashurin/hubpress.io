@@ -1,7 +1,7 @@
 {
   "meta": {
-    "yashurin": "put your username here",
-    "yashurin.github.io": "put your repository name here",
+    "username": "yashurin",
+    "repositoryName": "yashurin.github.io",
     "branch": "master"
   },
   "theme": {
